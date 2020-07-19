@@ -1,10 +1,11 @@
 # Introduction
-My name is Sonali singh,prefinal year CSE student at UIET, Kurukshetra.
+My name is Sonali singh, pre-final year CSE student at UIET, Kurukshetra.
 
-My Skills
+## My Skills
+- Frontend (HTML,CSS,Bootstrap,Javascript)
+- Beginner level knowledge of Backend (Node.js,Express.js ,ejs,MongoDB,mongoose)
+- Data structures
 
--Frontend (HTML,CSS,Bootstrap,Javascript)
-
--Beginner level knowledge of Backend (Node.js,Express.js ,ejs,MongoDB,mongoose)
-
--Data structures
+## My Hobbies 
+- Sketching
+- Reading
